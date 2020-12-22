@@ -1,9 +1,12 @@
-PRIVATE Smart-Mirror
+Smart-Mirror
 ===
 
 Description
 ---
 This is my version of the smart mirror I am building. I am using Python3 and `tkinter`.
+
+In order to use Docker to build GUI, I described the steps I used here:
+<https://medium.com/@nihon_rafy/building-a-dockerized-gui-by-sharing-the-host-screen-with-docker-container-b660835fb722>
 
 Run the project
 ---
