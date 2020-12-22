@@ -46,3 +46,12 @@ API_APP_ID=xxx
 WEATHER_DISPLAY_CITY=Berlin, Germany
 FIRSTNAME=yyy
 ```
+
+Weather widget
+---
+
+It is using the open weather API <https://openweathermap.org/api>.
+
+In order to generate an API key, you have to create an account on the website, and generate a key for `Current weather and forecast` in `Free plan`.
+
+You would be able to call the API 60times a minute, which is enough for what we are building, since the service is called once every 6hours.
